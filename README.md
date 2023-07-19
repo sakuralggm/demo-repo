@@ -8,3 +8,7 @@ tutorial: https://www.youtube.com/playlist?list=PLLJ1hZKyeCH1I8dP0UNTpWoIhsl6KpV
 
 watch video on YouTube
 try to make the second description
+
+## test for git branching
+
+this text is written in the feature-readme-instruction
