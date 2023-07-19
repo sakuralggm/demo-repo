@@ -12,3 +12,5 @@ try to make the second description
 ## test for git branching
 
 this text is written in the feature-readme-instruction
+
+## test for conflict
